@@ -1,4 +1,4 @@
-✨ Hello, I'm Majd Jamil Darwish
+✨ Hello, I'm Majd Jamil Darwish |
 Flutter Developer
 
 🔭 About Me:
