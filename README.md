@@ -1,16 +1,38 @@
-## Hi there 👋
+✨ Hello, I'm Majd Jamil Darwish
+Flutter Developer
 
-<!--
-**MajdJamil2002/MajdJamil2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 About Me:
+I am a passionate Mobile Application Developer specializing in Flutter. I hold a degree in Computer Systems Engineering from Al-Azhar University – Gaza and completed professional training through Gaza Sky Geeks (GSG).
+I enjoy building scalable, cross-platform mobile applications with a focus on clean, responsive UI/UX designs, robust API integrations, and efficient state management. I am always eager to tackle new challenges and continuously improve my technical expertise.
 
-Here are some ideas to get you started:
+📫 How to reach me: mjdd37832@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Location: Palestine
+
+🚀 Projects:
+1. Recipe Book App
+A user-friendly mobile application for browsing, searching, and exploring various cooking recipes.
+
+2. Multi-Vendor Pharmacy Delivery App
+A comprehensive platform connecting users with multiple pharmacies to browse medicines and place orders efficiently.
+
+🛠 Technical Skills:
+• Flutter 
+• Dart 
+• State Management (Bloc)
+• RESTful APIs Integrations 
+• UI/UX Design Implementation
+• Responsive Mobile Applications
+• MySQL Database Management
+• Mobile Application Testing & Debugging
+
+Soft Skills:
+• Strong Communication Skills
+• Team Collaboration
+• Adaptability and Resilience
+• Time Management
+• Ability to Work Under Pressure
+
+
+
+
